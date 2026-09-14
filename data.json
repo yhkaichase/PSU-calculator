@@ -3,11 +3,11 @@
   "ticker": "005930.KS",
   "sample": false,
   "currentPrice": 259500,
-  "vwap1w": 266268,
-  "vwap1m": 263512,
-  "vwap2m": 250956,
-  "vwap3m": 277166,
-  "basePrice": 260245,
+  "vwap1w": 266368,
+  "vwap1m": 263526,
+  "vwap2m": 250943,
+  "vwap3m": 277183,
+  "basePrice": 260279,
   "history": [
     {
       "date": "2026-06-15",
@@ -262,5 +262,5 @@
       "close": 259500
     }
   ],
-  "updatedAt": "2026-09-11T13:44:09.575693+00:00"
+  "updatedAt": "2026-09-14T15:58:33.194543+00:00"
 }
